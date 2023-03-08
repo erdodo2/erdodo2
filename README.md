@@ -2,6 +2,8 @@
 <h3 align="center">Welcome to my account that I set up to improve myself.</h3>
 
 <p align="left">
+ <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
